@@ -1,3 +1,9 @@
+-=(ComputerSpace_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Clocks swapped in sys.tcl
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Computer Space - World first commercial arcade!
